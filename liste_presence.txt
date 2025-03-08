@@ -1,2 +1,14 @@
 Yamar THIOUNE COLLQB
 Serigne Saliou FAYE présent aujourd'hui le 28/02/25
+azertyuiop
+<<<<<<< HEAD
+NDOGOU
+=======
+Yamar THIOUNE 06.03.2025
+Amina est a l'ESMT
+<<<<<<< HEAD
+>>>>>>> d5454b8e532a9f925259587ad5e3a0988dab5df1
+=======
+AKSJJSOSLZK
+>>>>>>> refs/remotes/origin/develop
+master ssi
